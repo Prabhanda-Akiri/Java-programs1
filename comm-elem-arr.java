@@ -18,7 +18,7 @@ public class D
         System.out.println("2nd array size:");
         int n=in.nextInt();
         int b[]=new int[n];
-        System.out.println("elements of first array:");
+        System.out.println("elements of 2nd array:");
         for(i=0;i<n;i++)
         {
             b[i]=in.nextInt();
